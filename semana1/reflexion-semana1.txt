@@ -1,9 +1,0 @@
-Considero que el uso responsable de la información en internet es fundamental para evitar la difusión de noticias falsas y proteger a las personas.
-Cuando verificamos la información antes de compartirla, contribuimos a una mejor convivencia digital.
-La participación ciudadana también depende de contar con información confiable para tomar decisiones informadas.
-Además, internet permite que las personas expresen sus opiniones y participen en diferentes espacios de manera activa.
-Por otro lado, herramientas como Git ayudan a organizar el trabajo técnico de forma ordenada y eficiente.
-Gracias a Git es posible registrar cambios y mantener un historial de las actividades realizadas.
-Esto facilita el trabajo colaborativo y evita errores.
-Tanto la ciudadanía digital como el uso de Git requieren responsabilidad y organización.
-Por esta razón, considero que ambos contribuyen a un uso más seguro y productivo de la tecnología.

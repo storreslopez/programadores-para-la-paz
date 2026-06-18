@@ -1,0 +1,36 @@
+Checklist de accesibilidad – Formulario Participa
+
+Nombre del estudiante: Santiago Torres Lopez
+Fecha: 17/06/2026
+Nombre de la rama: santiago_torres
+
+1. ¿El formulario tiene un título claro?
+Respuesta: Si
+
+2. ¿El formulario explica para qué se usará la información?
+Respuesta: Si
+
+3. ¿Cada campo tiene un label o etiqueta visible?
+Respuesta: Si
+
+4. ¿El lenguaje usado es sencillo y comprensible?
+Respuesta: Si
+
+5. ¿El formulario evita pedir datos innecesarios?
+Respuesta: Si
+
+6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
+Respuesta: Si
+
+7. ¿El formulario incluye una casilla o mensaje de consentimiento?
+Respuesta: Si
+
+8. ¿El botón de envío tiene un texto claro?
+Respuesta: Si
+
+9. ¿La página se puede leer con facilidad?
+Respuesta: Si
+
+10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
+Respuesta: Agregar una Toolbox de herramientas de accesibilidad con opciones
+como lectores de pantalla, control por voz y lupa para garantizar la inclusividad.

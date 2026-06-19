@@ -1,0 +1,16 @@
+{
+  "name": "semana4",
+  "version": "1.0.0",
+  "description": "Express básico con Node.js para comprender cliente, servidor, HTTP, GET y POST. Programadores para la Paz, Semana 4.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

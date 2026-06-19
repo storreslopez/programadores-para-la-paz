@@ -1,0 +1,47 @@
+Conceptos básicos de servidor y HTTP – Semana 3 Día 5
+
+Nombre del estudiante: Santiago Torres
+Fecha: 2026-06-19
+Nombre de la rama: santiago_torres
+
+Responde con tus propias palabras.
+
+1. ¿Qué es un cliente en la web?
+
+Respuesta: Un cliente es el navegador o programa que realiza una solicitud a un servidor para obtener información o realizar una acción. Es quien inicia la comunicación pidiendo recursos.
+
+2. ¿Qué es un servidor?
+
+Respuesta: Un servidor es un programa o computadora que recibe solicitudes de clientes, las procesa y envía respuestas con la información o resultado solicitado. Está disponible constantemente para atender solicitudes.
+
+3. ¿Qué es HTTP explicado de forma sencilla?
+
+Respuesta: HTTP es el protocolo o conjunto de reglas que utilizan los clientes y servidores para comunicarse en la web. Define cómo se envían los mensajes (solicitudes y respuestas) entre ellos.
+
+4. ¿Qué es una request o solicitud?
+
+Respuesta: Es el mensaje que envía un cliente al servidor pidiendo realizar una acción, como obtener una página web, una imagen o enviar información. Contiene el método (GET, POST), la dirección y otros datos.
+
+5. ¿Qué es una response o respuesta?
+
+Respuesta: Es el mensaje que devuelve el servidor al cliente después de procesar su solicitud. Contiene el resultado, como contenido HTML, datos, o un mensaje de error.
+
+6. ¿Para qué sirve el método GET?
+
+Respuesta: GET sirve para solicitar información al servidor. El cliente pide datos sin enviar información sensible. Es como "ir a buscar" información.
+
+7. ¿Para qué sirve el método POST?
+
+Respuesta: POST sirve para enviar información al servidor, como propuestas, mensajes o datos de formularios. El cliente "envía" información para que el servidor la procese o almacene.
+
+8. ¿Qué hace el comando npm start en esta práctica?
+
+Respuesta: npm start ejecuta el servidor Node.js definido en package.json. Levanta el servidor en el puerto 3000 para que esté disponible y pueda recibir solicitudes de clientes.
+
+9. ¿Qué mensaje viste al abrir http://localhost:3000?
+
+Respuesta: Bienvenida comunidad. Este es el servidor de participación.
+
+10. ¿Cómo se relaciona un servidor con una plataforma participativa?
+
+Respuesta: Un servidor es la base técnica de una plataforma participativa. Permite que los ciudadanos accedan a información (GET) y envíen sus propuestas o mensajes (POST), facilitando la comunicación bidireccional entre la comunidad.

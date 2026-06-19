@@ -1,0 +1,6 @@
+Esta ruta utiliza el método POST para recibir información enviada por un usuario.
+Cuando se accede a la ruta "/reporte", el servidor toma el valor de "mensaje" enviado en la solicitud y responde con un objeto JSON indicando que el reporte fue recibido junto con el mensaje enviado.
+
+En una aplicación comunitaria, esta ruta podría servir para que los miembros de la comunidad envíen reportes, alertas, sugerencias o solicitudes. 
+Por ejemplo, una persona podría reportar un problema en su barrio, informar sobre una actividad comunitaria o enviar una petición a los administradores. 
+De esta manera, la información se recopila de forma organizada y puede ser procesada por el sistema.

@@ -1,0 +1,47 @@
+Conceptos básicos de while – Semana 3 Día 3
+
+Nombre del estudiante:
+Fecha:
+Nombre de la rama:
+
+Responde con tus propias palabras.
+
+1. ¿Qué significa repetir instrucciones en programación?
+
+Respuesta:
+
+2. ¿Qué es un ciclo while?
+
+Respuesta:
+
+3. ¿Qué significa la condición dentro de un while?
+
+Respuesta:
+
+4. ¿Por qué es importante cambiar una variable dentro del while?
+
+Respuesta:
+
+5. ¿Qué es un ciclo infinito?
+
+Respuesta:
+
+6. ¿Qué hace el comando npm run practicar?
+
+Respuesta:
+
+7. ¿Dónde está definido el comando practicar?
+
+Respuesta:
+
+8. ¿Qué diferencia hay entre node archivo.js y npm run practicar?
+
+Respuesta:
+
+9. ¿Cómo puede servir un while para revisar varias fuentes de información?
+
+Respuesta:
+
+10. ¿Cómo puede relacionarse un ciclo con el seguimiento de propuestas comunitarias?
+
+Respuesta:

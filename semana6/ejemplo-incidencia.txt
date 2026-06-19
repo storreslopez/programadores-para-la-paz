@@ -1,0 +1,4 @@
+{
+  "tipo": "Servicio Publico",
+  "descripcion": "Se reporta ineficiencia en el servicio de agua en la UdeC"
+}

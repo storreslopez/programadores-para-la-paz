@@ -1,0 +1,8 @@
+Es fundamental que las plataformas reciban información estructurada porque permite
+procesar automáticamente miles de reportes sin intervención manual, evitando errores y escalando el sistema.
+La información organizada facilita la validación en tiempo real, asegurando que los reportes sean completos y útiles. 
+Con datos estructurados es posible analizar patrones, identificar zonas problemáticas y
+tomar decisiones basadas en información real. 
+Además, permite asignar correctamente los reportes a departamentos específicos, mejorar el seguimiento del estado de cada incidencia e integrar la información con otros sistemas. 
+Finalmente, los datos estructurados aumentan la transparencia, confianza y credibilidad del sistema, permitiendo que los ciudadanos comprendan
+qué información proporcionar y puedan hacer seguimiento de sus reportes de manera clara.

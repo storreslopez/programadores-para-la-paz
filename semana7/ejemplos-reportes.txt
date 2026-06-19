@@ -1,0 +1,70 @@
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}
+Ejemplo 3:
+{
+"tipo": "Seguridad",
+"descripcion": "Falta de señalización en un cruce peatonal"
+}
+
+Ejemplo 4:
+{
+"tipo": "Movilidad",
+"descripcion": "Hueco de gran tamaño en una vía principal"
+}
+
+Ejemplo 5:
+{
+"tipo": "Espacio Público",
+"descripcion": "Parque comunitario con juegos infantiles deteriorados"
+}
+
+Ejemplo 6:
+{
+"tipo": "Servicios Públicos",
+"descripcion": "Interrupciones frecuentes en el suministro de agua"
+}
+
+Ejemplo 7:
+{
+"tipo": "Salud",
+"descripcion": "Acumulación de aguas estancadas que favorecen la proliferación de mosquitos"
+}
+
+Ejemplo 8:
+{
+"tipo": "Educación",
+"descripcion": "Deterioro de la infraestructura en una institución educativa"
+}
+
+Ejemplo 9:
+{
+"tipo": "Ambiente",
+"descripcion": "Tala no autorizada de árboles en una zona verde"
+}
+
+Ejemplo 10:
+{
+"tipo": "Infraestructura",
+"descripcion": "Andén en mal estado que dificulta la movilidad de peatones"
+}
+
+Ejemplo 11:
+{
+"tipo": "Convivencia",
+"descripcion": "Contaminación por ruido en horario nocturno"
+}
+
+Ejemplo 12:
+{
+"tipo": "Servicios Públicos",
+"descripcion": "Fuga de agua en una tubería del barrio"
+}

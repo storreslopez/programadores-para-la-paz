@@ -1,0 +1,6 @@
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en estructuras"
+}
+
+Retorna un objeto JSON con un mensaje confirmando el registro exitoso y tambien retorna el objeto report junto con su ID.

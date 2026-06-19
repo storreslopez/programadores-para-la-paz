@@ -1,0 +1,47 @@
+Conceptos básicos de arrays, for y for...of – Semana 3 Día 4
+
+Nombre del estudiante: Santiago Torres
+Fecha: 2026-06-19
+Nombre de la rama: santiago_torres
+
+Responde con tus propias palabras.
+
+1. ¿Qué es un array en JavaScript?
+
+Respuesta: Un array en JavaScript es una estructura de datos que permite guardar una colección de valores ordenados en una sola variable.
+
+2. ¿Para qué sirve guardar varios datos en un array?
+
+Respuesta: Guardar varios datos en un array sirve para organizarlos, acceder a ellos con índices y recorrerlos de forma eficiente.
+
+3. ¿Qué tipo de información comunitaria podría guardarse en un array?
+
+Respuesta: Se pueden guardar listas de comunidades, propuestas, mensajes, fuentes de información y actividades de seguimiento comunitario.
+
+4. ¿Qué hace un for tradicional?
+
+Respuesta: Un for tradicional repite un bloque de código varias veces usando un índice que aumenta en cada vuelta.
+
+5. ¿Qué representa la variable i en un for tradicional?
+
+Respuesta: La variable i representa el índice o contador que controla la posición actual dentro del array y el número de iteración.
+
+6. ¿Qué significa .length?
+
+Respuesta: .length devuelve la cantidad de elementos que tiene el array.
+
+7. ¿Qué hace for...of?
+
+Respuesta: for...of recorre directamente cada elemento de un array sin usar índices explícitos.
+
+8. ¿Qué diferencia inicial encuentras entre for y for...of?
+
+Respuesta: La diferencia inicial es que for usa un índice para acceder a los elementos, mientras que for...of trabaja directamente con los valores.
+
+9. ¿Qué hace el comando npm run revisar?
+
+Respuesta: npm run revisar ejecuta el script definido en package.json para mostrar el contenido del array en la terminal y verificar los datos.
+
+10. ¿Cómo puede ayudar un array organizado a la participación ciudadana?
+
+Respuesta: Un array organizado ayuda a la participación ciudadana porque permite clasificar información, facilitar el acceso, mantener transparencia y apoyar el seguimiento de propuestas.

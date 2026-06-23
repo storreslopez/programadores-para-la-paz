@@ -1,0 +1,3 @@
+No usar las mismas contraseñas en todas las plataformas.
+Verificar la integridad del sitio.
+Mantener el software actualizado.

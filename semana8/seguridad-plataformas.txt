@@ -1,0 +1,5 @@
+No exponer datos personales de los usuarios.
+Utilizar contraseñas fuertes y únicas.
+Implementar conexiones seguras mediante HTTPS.
+Registrar y monitorear los accesos al sistema.
+Restringir el acceso a información sensible según los permisos de cada usuario.

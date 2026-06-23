@@ -1,0 +1,8 @@
+Las plataformas digitales que utilizan las comunidades necesitan 
+Funcionar de forma estable para garantizar que los usuarios puedan acceder a ellas cuando lo necesiten. 
+Si un servidor presenta fallas constantes, las personas pueden perder confianza en el servicio. 
+Además, la seguridad es importante para proteger la información y evitar accesos no autorizados. 
+Un servidor bien administrado permite ofrecer una experiencia más confiable y organizada. 
+También facilita la detección de problemas mediante registros y monitoreo. 
+Cuando una plataforma permanece disponible y protegida, la participación de la comunidad se fortalece. 
+Por esta razón, la estabilidad y la seguridad son aspectos fundamentales para cualquier proyecto tecnológico que busque beneficiar a muchas personas.
